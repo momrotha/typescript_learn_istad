@@ -1,5 +1,5 @@
 // is all in one like inheritance 
-// use & impersen
+// use & amphersen
 type Animal = {
     type: string,
     leg: number
@@ -44,7 +44,7 @@ const Action: Animals = {
             volume: 90
         }
     ]
-    
+
 };
 
 console.table(Action);
